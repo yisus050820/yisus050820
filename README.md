@@ -1,6 +1,8 @@
 # ¡Hola, soy Jesús Enríquez! 👋
 
-![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200"/>
+</div>
 
 ### Ingeniero de Software | Apasionado por la creación de soluciones innovadoras
 
@@ -11,17 +13,13 @@ Soy un ingeniero de software con experiencia en una amplia gama de tecnologías 
 ## 🚀 Tecnologías con las que trabajo
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img src="https://img.icons8.com/ios-filled/50/4a90e2/react-native.png"/>
+  <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png"/>
 </p>
 
 ---
@@ -48,6 +46,15 @@ Me esfuerzo por aplicar esta filosofía en cada proyecto, buscando siempre un im
 
 ---
 
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jesusenriquez&show_icons=true&theme=radical" alt="Estadísticas de GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusenriquez&layout=compact&theme=radical" alt="Lenguajes más usados"/>
+</div>
+
+---
+
 ## 📫 ¡Hablemos!
 
 ¿Te gustaría colaborar o simplemente hablar sobre tecnología? ¡No dudes en contactarme!
@@ -63,4 +70,6 @@ Me esfuerzo por aplicar esta filosofía en cada proyecto, buscando siempre un im
 
 ---
 
-![Coding GIF](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" height="150"/>
+</div>
