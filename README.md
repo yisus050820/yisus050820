@@ -26,10 +26,10 @@ Soy un ingeniero de software con experiencia en una amplia gama de tecnologías 
 
 ## 📈 Progreso de mi carrera
 
-Estoy en constante crecimiento, siempre aprendiendo y mejorando mis habilidades. Aquí te muestro una representación gráfica de mi progreso profesional:
+Aquí te muestro una representación gráfica de mi progreso profesional:
 
 <div align="center">
-  <img src="https://progress-bar.dev/33/?title=Progreso%20de%20mi%20carrera" alt="Progreso de carrera"/>
+  <img src="https://raw.githubusercontent.com/jesusenriquez/progreso/main/progress-bar.svg" alt="Progreso de carrera" width="400" height="50"/>
 </div>
 
 ### 🎯 Etapas completadas: 3 de 9
@@ -49,8 +49,8 @@ Me esfuerzo por aplicar esta filosofía en cada proyecto, buscando siempre un im
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jesusenriquez&show_icons=true&theme=radical" alt="Estadísticas de GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusenriquez&layout=compact&theme=radical" alt="Lenguajes más usados"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=**tu-usuario**&show_icons=true&theme=radical" alt="Estadísticas de GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=**tu-usuario**&layout=compact&theme=radical" alt="Lenguajes más usados"/>
 </div>
 
 ---
