@@ -33,7 +33,11 @@ Soy un ingeniero de software con experiencia en una amplia gama de tecnologías 
 Aquí te muestro una representación gráfica de mi progreso profesional:
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jesusenriquez/progreso/main/progress-bar.svg" alt="Progreso de carrera" width="400" height="50"/>
+  <div style="width: 80%; background-color: #ddd; border-radius: 10px; padding: 3px;">
+    <div style="width: 33%; background-color: #4caf50; height: 30px; border-radius: 10px; text-align: center; color: white; font-weight: bold;">
+      3 de 9 etapas
+    </div>
+  </div>
 </div>
 
 ### 🎯 Etapas completadas: 3 de 9
@@ -50,12 +54,14 @@ Me esfuerzo por aplicar esta filosofía en cada proyecto, buscando siempre un im
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 🏆 Logros destacados y proyectos
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=**tu-usuario**&show_icons=true&theme=radical" alt="Estadísticas de GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=**tu-usuario**&layout=compact&theme=radical" alt="Lenguajes más usados"/>
-</div>
+- ✅ **Proyecto 1**: Desarrollo de una aplicación web con **React** y **Node.js** para la gestión de voluntariados.
+- ✅ **Proyecto 2**: Implementación de un sistema de donaciones con **Laravel**, **Vue** y **Tailwind**.
+- ✅ **Proyecto 3**: Automatización de reportes y análisis de datos con **Python** y **MySQL**.
+  
+### 📊 Logro principal: 
+- Aumenté la eficiencia del proceso de gestión de voluntarios en un 50% mediante la implementación de un sistema de administración web optimizado.
 
 ---
 
