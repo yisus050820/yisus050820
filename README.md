@@ -1,43 +1,66 @@
 # ¡Hola, soy Jesús Enríquez! 👋
 
-### Ingeniero de Software | Apasionado por la tecnología y el desarrollo de soluciones innovadoras
+![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-Soy un ingeniero de software con experiencia en diversas tecnologías, desde front-end hasta back-end. A lo largo de mi carrera, he trabajado en proyectos que abarcan una amplia gama de industrias y necesidades.
+### Ingeniero de Software | Apasionado por la creación de soluciones innovadoras
 
-## 🚀 Tecnologías que utilizo
+Soy un ingeniero de software con experiencia en una amplia gama de tecnologías tanto en el front-end como en el back-end. Mi enfoque está en el desarrollo de proyectos impactantes que cambien la vida de las personas.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+## 🚀 Tecnologías con las que trabajo
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
 
 ## 📈 Progreso de mi carrera
-Estoy comprometido con el crecimiento continuo y siempre busco mejorar mis habilidades y aprender nuevas tecnologías. Aquí está el progreso en mi carrera como ingeniero de software:
+
+Estoy en constante crecimiento, siempre aprendiendo y mejorando mis habilidades. Aquí te muestro una representación gráfica de mi progreso profesional:
 
 <div align="center">
-  <svg width="300" height="100">
-    <rect width="300" height="30" fill="#ddd" />
-    <rect width="100" height="30" fill="#4caf50" />
-    <text x="150" y="20" fill="black" text-anchor="middle" font-size="15px">Progreso: 3 de 9 etapas</text>
-  </svg>
+  <img src="https://progress-bar.dev/33/?title=Progreso%20de%20mi%20carrera" alt="Progreso de carrera"/>
 </div>
 
-Actualmente, estoy en la tercera etapa de mi carrera, con 6 etapas más por completar en mi camino de aprendizaje y experiencia.
+### 🎯 Etapas completadas: 3 de 9
 
-## 🌱 Mi filosofía de desarrollo
-> _"El éxito es la suma de pequeños esfuerzos repetidos día tras día."_  
-Me esfuerzo por aplicar esta mentalidad en cada proyecto en el que trabajo, buscando siempre la mejora continua y la innovación.
+¡Todavía hay mucho por descubrir y aprender en este emocionante camino! 🚀
 
-## 📫 Contáctame
-Si deseas colaborar o tienes alguna pregunta, no dudes en contactarme:
+---
 
-- 📧 **Email**: [jesusenriquez@example.com](mailto:jesusenriquez@example.com)
-- 💼 **LinkedIn**: [linkedin.com/in/jesusenriquez](https://linkedin.com/in/jesusenriquez)
+## 💡 Filosofía de Desarrollo
+
+> _"El desarrollo no es solo escribir código, es mejorar la vida de las personas a través de la tecnología."_
+
+Me esfuerzo por aplicar esta filosofía en cada proyecto, buscando siempre un impacto positivo y soluciones eficientes.
+
+---
+
+## 📫 ¡Hablemos!
+
+¿Te gustaría colaborar o simplemente hablar sobre tecnología? ¡No dudes en contactarme!
+
+<p align="center">
+  <a href="mailto:jesusenriquez@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/jesusenriquez" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+![Coding GIF](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
