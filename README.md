@@ -28,24 +28,6 @@ Soy un ingeniero de software con experiencia en una amplia gama de tecnologías 
 
 ---
 
-## 📈 Progreso de mi carrera
-
-Aquí te muestro una representación gráfica de mi progreso profesional:
-
-<div align="center">
-  <div style="width: 80%; background-color: #ddd; border-radius: 10px; padding: 3px;">
-    <div style="width: 33%; background-color: #4caf50; height: 30px; border-radius: 10px; text-align: center; color: white; font-weight: bold;">
-      3 de 9 etapas completadas
-    </div>
-  </div>
-</div>
-
-### 🎯 Etapas completadas: 3 de 9
-
-¡Todavía hay mucho por descubrir y aprender en este emocionante camino! 🚀
-
----
-
 ## 🏆 Logros destacados y proyectos
 
 ### Videojuego **"Hunger's Hero"** 🕹️
@@ -107,4 +89,3 @@ Me esfuerzo por aplicar esta filosofía en cada proyecto, buscando siempre un im
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" height="150"/>
 </div>
-
