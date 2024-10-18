@@ -24,6 +24,8 @@ Soy un ingeniero de software con experiencia en una amplia gama de tecnologías 
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
   <img src="https://img.icons8.com/color/48/000000/material-ui.png"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+  <img src="https://img.icons8.com/ios/50/000000/express-js.png"/>
 </p>
 
 ---
