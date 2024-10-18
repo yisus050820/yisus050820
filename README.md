@@ -35,7 +35,7 @@ Aquí te muestro una representación gráfica de mi progreso profesional:
 <div align="center">
   <div style="width: 80%; background-color: #ddd; border-radius: 10px; padding: 3px;">
     <div style="width: 33%; background-color: #4caf50; height: 30px; border-radius: 10px; text-align: center; color: white; font-weight: bold;">
-      3 de 9 etapas
+      3 de 9 etapas completadas
     </div>
   </div>
 </div>
@@ -46,22 +46,46 @@ Aquí te muestro una representación gráfica de mi progreso profesional:
 
 ---
 
+## 🏆 Logros destacados y proyectos
+
+### Videojuego **"Hunger's Hero"** 🕹️
+- Un videojuego diseñado para crear conciencia sobre la lucha contra el hambre.
+- Incluye mecánicas de juego interactivas que enseñan a los jugadores sobre la importancia de la alimentación y cómo combatir el hambre en el mundo.
+
+---
+
+### CRUD para ONG 📊
+- **Proyecto:** Desarrollo e implementación de una aplicación web tipo CRUD para la optimización de operaciones de una ONG.
+- **Propósito:** Orientado a la educación y la reducción de desigualdades, este sistema ayuda a gestionar los beneficiarios, voluntarios y donantes, mejorando la eficiencia operativa y el seguimiento de datos en tiempo real.
+
+---
+
+<div align="center">
+  <table style="border: 2px solid #4caf50; border-radius: 8px; padding: 10px; width: 80%; text-align: center;">
+    <tr>
+      <td><b>Videojuego</b></td>
+      <td><b>Hunger's Hero</b></td>
+    </tr>
+    <tr>
+      <td colspan="2">Combate contra el hambre a través de mecánicas de juego interactivas.</td>
+    </tr>
+    <tr>
+      <td><b>Aplicación Web</b></td>
+      <td><b>CRUD para ONG</b></td>
+    </tr>
+    <tr>
+      <td colspan="2">Optimización de operaciones para una ONG orientada a la educación y reducción de desigualdades.</td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 💡 Filosofía de Desarrollo
 
 > _"El desarrollo no es solo escribir código, es mejorar la vida de las personas a través de la tecnología."_
 
 Me esfuerzo por aplicar esta filosofía en cada proyecto, buscando siempre un impacto positivo y soluciones eficientes.
-
----
-
-## 🏆 Logros destacados y proyectos
-
-- ✅ **Proyecto 1**: Desarrollo de una aplicación web con **React** y **Node.js** para la gestión de voluntariados.
-- ✅ **Proyecto 2**: Implementación de un sistema de donaciones con **Laravel**, **Vue** y **Tailwind**.
-- ✅ **Proyecto 3**: Automatización de reportes y análisis de datos con **Python** y **MySQL**.
-  
-### 📊 Logro principal: 
-- Aumenté la eficiencia del proceso de gestión de voluntarios en un 50% mediante la implementación de un sistema de administración web optimizado.
 
 ---
 
@@ -83,3 +107,4 @@ Me esfuerzo por aplicar esta filosofía en cada proyecto, buscando siempre un im
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" height="150"/>
 </div>
+
